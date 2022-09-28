@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(14, 17, 22);
+}
+
+p.infos{
+    color: white;
+    text-align: left;
+}
+
+div.bold{
+    font-weight: bold;
+    font-style: italic;
+}
