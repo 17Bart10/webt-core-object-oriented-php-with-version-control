@@ -1,4 +1,5 @@
 <?php
+namespace Htlw3r\Bootube;
 
 interface VideoInterface{
     /**
