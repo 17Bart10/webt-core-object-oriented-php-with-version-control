@@ -12,21 +12,7 @@ div.bold{
     font-style: italic;
 }
 
-div.space{
-    width: 150px;
-}
-
 h1{
     color: aqua;
 }
-
-.col-mt-3 {
-    display: flex;
-    flex-wrap: wrap; /* Standardwert = nowrap */
-  }
-  
-.col-mt-3 {
-    flex-basis: 25%;
-
-  }
 
