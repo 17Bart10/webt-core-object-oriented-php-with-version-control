@@ -12,7 +12,6 @@ abstract class Video
 
     function getVideoName(): string
     {
-        // TODO: Implement getVideoName() method.
         return $this->name;
     }
 }
